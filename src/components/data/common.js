@@ -1,5 +1,5 @@
 export const aboutMe = "  A full stack developer with a vision to build easy-to-use and easy - to - maintain applications.I love challenging and complex tasks. Always keen to meet new people, learn from them, and help them to achieve common goals."
-export const intro = "I am Satya Prakash";
+export const intro = "I am Priyesh Saurav";
 export const hello = "Hi, <span class='wave'>👋</span>";
 export const mySkills = "Skills"
 
@@ -11,7 +11,7 @@ export const socialMedia = [
         type: 'social-media',
         target: '_blank',
         iconUrl: './assets/github.png',
-        profileUrl: 'https://github.com/satyaprakashksingh'
+        profileUrl: 'https://github.com/priyeshsaurav'
     },
     {
         id: 102,
@@ -20,7 +20,7 @@ export const socialMedia = [
         type: 'social-media',
         target: '_blank',
         iconUrl: './assets/linkedin.png',
-        profileUrl: 'https://www.linkedin.com/in/satyaprakashksingh'
+        profileUrl: 'https://www.linkedin.com/in/priyesh-saurav'
     },
     {
         id: 103,
@@ -29,7 +29,7 @@ export const socialMedia = [
         type: 'social-media',
         target: '_blank',
         iconUrl: './assets/twitter.png',
-        profileUrl: 'https://twitter.com/ksatyasingh'
+        profileUrl: 'https://twitter.com/priyeshsaurav'
     },
     {
         id: 104,
@@ -38,7 +38,7 @@ export const socialMedia = [
         type: 'social-media',
         target: '_blank',
         iconUrl: './assets/instagram.png',
-        profileUrl: 'https://www.instagram.com/satyaprakashksingh/?'
+        profileUrl: 'https://www.instagram.com/priyeshsaurav/?'
     },
 ]
 export const Navigation = [
